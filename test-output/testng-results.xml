@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-18T07:23:26 IST" name="Suite" finished-at="2023-08-18T07:23:31 IST" duration-ms="5156">
+    <groups>
+    </groups>
+    <test started-at="2023-08-18T07:23:26 IST" name="Test" finished-at="2023-08-18T07:23:31 IST" duration-ms="5156">
+      <class name="com.APIChains.GetUser">
+        <test-method signature="test_getUser(org.testng.ITestContext)[pri:0, instance:com.APIChains.GetUser@72d1ad2e]" started-at="2023-08-18T07:23:30 IST" name="test_getUser" finished-at="2023-08-18T07:23:31 IST" duration-ms="320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@77f80c04]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getUser -->
+      </class> <!-- com.APIChains.GetUser -->
+      <class name="com.APIChains.UpdateUser">
+        <test-method signature="test_updateuser(org.testng.ITestContext)[pri:0, instance:com.APIChains.UpdateUser@2d7275fc]" started-at="2023-08-18T07:23:31 IST" name="test_updateuser" finished-at="2023-08-18T07:23:31 IST" duration-ms="307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@77f80c04]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateuser -->
+      </class> <!-- com.APIChains.UpdateUser -->
+      <class name="com.APIChains.DeleteUser">
+        <test-method signature="test_deleteUser(org.testng.ITestContext)[pri:0, instance:com.APIChains.DeleteUser@399f45b1]" started-at="2023-08-18T07:23:31 IST" name="test_deleteUser" finished-at="2023-08-18T07:23:31 IST" duration-ms="189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@77f80c04]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteUser -->
+      </class> <!-- com.APIChains.DeleteUser -->
+      <class name="com.APIChains.CreateUser">
+        <test-method signature="test_CreateUser(org.testng.ITestContext)[pri:0, instance:com.APIChains.CreateUser@37afeb11]" started-at="2023-08-18T07:23:26 IST" name="test_CreateUser" finished-at="2023-08-18T07:23:30 IST" duration-ms="4255" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@77f80c04]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_CreateUser -->
+      </class> <!-- com.APIChains.CreateUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
